@@ -1,4 +1,4 @@
-# <Olya> | <Cybersecurity Intern>
+## Cybersecurity & InfoSec
 
 # Certificates
 
